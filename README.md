@@ -33,15 +33,6 @@ I enjoy building reliable, real-world systems — from backend platforms and dat
 
 ---
 
-## 📌 Featured Projects
-> *(Pinned below — check them out 👇)*
-
-- **Imaging / AI tooling** – Python-based data & processing workflows  
-- **Systems projects** – C++ / Java projects focused on fundamentals  
-- **End-to-end builds** – from data → model → deployment
-
----
-
 ## 📬 Connect With Me
 
 - 💼 **LinkedIn:** https://linkedin.com/in/rashadjn  
