@@ -18,7 +18,7 @@ I enjoy building reliable, real world systems. From backend platforms and data p
 **Experience**
 - AI Engineer Intern for Intact Financial Coroporation
 - Machine Learning Engineer Intern for Cann Forecast
-- Software Engineer Inter for Toronto Transit Commission
+- Software Engineer Intern for Toronto Transit Commission
 
 ---
 
