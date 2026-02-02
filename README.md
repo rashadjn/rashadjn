@@ -1,14 +1,48 @@
-## Hi, I’m Rashad 👋
-I’m a Computer Engineering student at the University of Waterloo with a strong interest in building reliable, production-grade software and applied AI systems.
+# Hi, I’m Rashad 👋
 
-I enjoy working on backend platforms, AI tooling, and data-driven systems, especially where software operates at real-world scale.
+🎓 **Computer Engineering @ University of Waterloo**  
+💻 Interested in **production-grade software**, **backend systems**, and **applied AI tooling**
+
+I enjoy building reliable, real-world systems — from backend platforms and data pipelines to AI-powered internal tools that operate at scale.
 
 ---
 
-### 🔧 Technologies & Tools
-**Languages:** Python, C++, Java, JavaScript  
-**Tools:** AWS, Docker, SQL, Scikit-Learn, PyTorch, TensorFlow
+## 🛠️ Tech Stack
 
-📫 **Connect with me:**  
-- GitHub: https://github.com/rashadjn  
-- LinkedIn: https://linkedin.com/in/rashadjn
+**Languages**
+- Python
+- C++
+- Java
+- JavaScript
+
+**Frameworks & Tools**
+- AWS (S3, SageMaker, Textract)
+- Docker
+- SQL
+- Scikit-Learn
+- PyTorch
+- TensorFlow
+
+---
+
+## 🚀 What I Work On
+- Backend APIs and data pipelines
+- AI-powered internal tools and platforms
+- Cost- and performance-optimized ML systems
+- Production-oriented engineering (reliability, scalability, efficiency)
+
+---
+
+## 📌 Featured Projects
+> *(Pinned below — check them out 👇)*
+
+- **Imaging / AI tooling** – Python-based data & processing workflows  
+- **Systems projects** – C++ / Java projects focused on fundamentals  
+- **End-to-end builds** – from data → model → deployment
+
+---
+
+## 📬 Connect With Me
+
+- 💼 **LinkedIn:** https://linkedin.com/in/rashadjn  
+- 💻 **GitHub:** https://github.com/rashadjn
