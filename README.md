@@ -1,9 +1,9 @@
 # Hi, I’m Rashad 👋
 
 🎓 **Computer Engineering @ University of Waterloo**  
-💻 Interested in **production-grade software**, **backend systems**, and **applied AI tooling**
+💻 Interested in **production grade software**, **backend systems**, and **applied AI tooling**
 
-I enjoy building reliable, real-world systems — from backend platforms and data pipelines to AI-powered internal tools that operate at scale.
+I enjoy building reliable, real world systems. From backend platforms and data pipelines to AI powered internal tools that operate at scale.
 
 ---
 
@@ -12,8 +12,8 @@ I enjoy building reliable, real-world systems — from backend platforms and dat
 **Languages**
 - Python
 - C++
-- Java
-- JavaScript
+- C
+- JavaScript/Typescript
 
 **Frameworks & Tools**
 - AWS (S3, SageMaker, Textract)
@@ -27,8 +27,8 @@ I enjoy building reliable, real-world systems — from backend platforms and dat
 
 ## 🚀 What I Work On
 - Backend APIs and data pipelines
-- AI-powered internal tools and platforms
-- Cost- and performance-optimized ML systems
+- AI powered internal tools and platforms
+- Cost and performance optimized ML systems
 - Production-oriented engineering (reliability, scalability, efficiency)
 
 ---
