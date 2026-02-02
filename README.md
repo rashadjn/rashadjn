@@ -1,7 +1,7 @@
 # Hi, I’m Rashad 👋
 
 🎓 **Computer Engineering @ University of Waterloo**  
-💻 Interested in **production grade software**, **backend systems**, and **applied AI tooling**
+💻 Interested in production grade software, backend systems, and applied AI tooling
 
 I enjoy building reliable, real world systems. From backend platforms and data pipelines to AI powered internal tools that operate at scale.
 
@@ -15,13 +15,10 @@ I enjoy building reliable, real world systems. From backend platforms and data p
 - C
 - JavaScript/Typescript
 
-**Frameworks & Tools**
-- AWS (S3, SageMaker, Textract)
-- Docker
-- SQL
-- Scikit-Learn
-- PyTorch
-- TensorFlow
+**Experience**
+- AI Engineer Intern for Intact Financial Coroporation
+- Machine Learning Engineer Intern for Cann Forecast
+- Software Engineer Inter for Toronto Transit Commission
 
 ---
 
