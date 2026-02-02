@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, I’m Rashad 👋
+I’m a Computer Engineering student at the University of Waterloo with a strong interest in building reliable, production-grade software and applied AI systems.
 
-<!--
-**rashadjn/rashadjn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy working on backend platforms, AI tooling, and data-driven systems, especially where software operates at real-world scale.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Technologies & Tools
+**Languages:** Python, C++, Java, JavaScript  
+**Tools:** AWS, Docker, SQL, Scikit-Learn, PyTorch, TensorFlow
+
+📫 **Connect with me:**  
+- GitHub: https://github.com/rashadjn  
+- LinkedIn: https://linkedin.com/in/rashadjn
